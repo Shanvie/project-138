@@ -1,0 +1,21 @@
+
+#Heading{
+	width: 100%;
+	text-align: left;
+	height: 50px;
+	font-size: 25px;
+}
+#Heading button{
+   float: right;
+   border: 1px solid black;
+   bottom: 20px;
+}
+#Heading h3{
+	display: inline;
+}
+img{
+	width: 100%;
+}
+#Play{
+	font-size:25px;
+}
